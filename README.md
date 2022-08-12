@@ -8,13 +8,10 @@
 
 - HTML5, CSS3, JavaScript, ReactJS, Python, SQL, GitHub
 
-### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/Oz-MT/count.svg" alt ="Loading">
 <br>
-<hr>
 
 
-## My projects
+### My projects
   Project Name/Link       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
 [Netflix Survey Form](https://oz-mt.github.io/netflix_form/)| HTML, CSS |![netflix survey form](https://github.com/Oz-MT/netflix_form/blob/master/final-img/netflix-survey.jpg)
@@ -22,7 +19,7 @@
 
 
 
-## 🚀 Skills
+### 🚀 Skills
 <p>
  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>  
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a> 
@@ -37,11 +34,4 @@
  <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/354354/slack-icon.svg" height="45"/> </a>
 </p>
 
-
-
-## 📈 Statistics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Selman-S&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Selman-S&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selman-S&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
