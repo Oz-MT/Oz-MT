@@ -2,14 +2,11 @@
 
 ### What I'm using ? 🛠
 
-I prefer React & React Native for web/mobile front-end, Node.js & Django technologies for back-end development.
-<br/>
-
 - I’m currently working on Fullstack development
 
-- I’m currently learning React.js  
+- I’m currently learning NodeJS  
 
-- HTML5, CSS3, JavaScript, React, Python, SQL, GitHub
+- HTML5, CSS3, JavaScript, ReactJS, Python, SQL, GitHub
 
 ### Visitors Count
 <img align="left" src = "https://profile-counter.glitch.me/Oz-MT/count.svg" alt ="Loading">
@@ -20,7 +17,7 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 ## My projects
   Project Name/Link       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
-
+[Netflix Survey Form](https://oz-mt.github.io/netflix_form/)| HTML, CSS |![netflix survey form](https://github.com/Oz-MT/netflix_form/blob/master/final-img/netflix-survey.jpg)
 
 
 
