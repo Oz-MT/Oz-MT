@@ -14,7 +14,7 @@
 ### My projects
   Project Name/Link       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
-[Portfolio Page](https://portfolio-page-two-chi.vercel.app/)| HTML, CSS |![portfolio page](https://github.com/Oz-MT/portfolio-page/blob/master/portfolio-page.gif)
+[Portfolio Page](https://portfolio-page-two-chi.vercel.app/)| HTML, CSS |![portfolio page]()
 [Netflix Survey Form](https://oz-mt.github.io/netflix_form/)| HTML, CSS |![netflix survey form](https://github.com/Oz-MT/netflix_form/blob/master/final-img/netflix-survey-small.jpg)
 [Survey Form](https://survey-form-ivory.vercel.app/)| HTML, CSS |![survey form](https://github.com/Oz-MT/survey-form/blob/master/img/survey-form-img-small.jpg)
 
