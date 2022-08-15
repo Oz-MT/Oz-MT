@@ -14,6 +14,7 @@
 ### My projects
   Project Name/Link       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
+[Google Landing Page](https://oz-mt.github.io/google-landing-page/)| HTML, CSS |![google landing page](https://github.com/Oz-MT/google-landing-page/blob/master/google%20landing%20page%20clone%20.jpg)
 [Portfolio Page](https://portfolio-page-two-chi.vercel.app/)| HTML, CSS |![portfolio page](https://github.com/Oz-MT/portfolio-page/blob/master/portfolio-page.gif)
 [Netflix Survey Form](https://oz-mt.github.io/netflix_form/)| HTML, CSS |![netflix survey form](https://github.com/Oz-MT/netflix_form/blob/master/final-img/netflix-survey-small.jpg)
 [Survey Form](https://survey-form-ivory.vercel.app/)| HTML, CSS |![survey form](https://github.com/Oz-MT/survey-form/blob/master/img/survey-form-img-small.jpg)
