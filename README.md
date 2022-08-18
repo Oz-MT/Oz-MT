@@ -14,6 +14,7 @@
 ### My projects
   Project Name/Link       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
+[Parallax Website](https://oz-mt.github.io/parallax-website/)| HTML, CSS |![parallax website](https://github.com/Oz-MT/parallax-website/blob/master/parallax-website.gif)
 [Google Landing Page](https://oz-mt.github.io/google-landing-page/)| HTML, CSS |![google landing page](https://github.com/Oz-MT/google-landing-page/blob/master/google%20landing%20page%20clone%20.jpg)
 [Portfolio Page](https://portfolio-page-two-chi.vercel.app/)| HTML, CSS |![portfolio page](https://github.com/Oz-MT/portfolio-page/blob/master/portfolio-page.gif)
 [Netflix Survey Form](https://oz-mt.github.io/netflix_form/)| HTML, CSS |![netflix survey form](https://github.com/Oz-MT/netflix_form/blob/master/final-img/netflix-survey-small.jpg)
