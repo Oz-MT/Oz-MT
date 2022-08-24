@@ -16,7 +16,7 @@
 :-------------------------|-------------------------|-------------------------
 [Huddle Landing Page](https://oz-mt.github.io/huddle-landing-page/)| HTML, CSS |![huddle landing pag](https://github.com/Oz-MT/huddle-landing-page/blob/master/huddle-landing-page.gif)
 [Parallax Website](https://oz-mt.github.io/parallax-website/)| HTML, CSS |![parallax website](https://github.com/Oz-MT/parallax-website/blob/master/parallax-website.gif)
-[Testimonials Grid Section](https://oz-mt.github.io/testimanials-grid-section/)| HTML, CSS |![testimonials grid section](https://github.com/Oz-MT/testimanials-grid-section/blob/master/views/desktop%20sm%20view.jpg)
+[Testimonials Grid Section](https://oz-mt.github.io/testimanials-grid-section/)| HTML, CSS |![testimonials grid section](https://github.com/Oz-MT/testimanials-grid-section/blob/master/desktop%20sm%20view.jpg)
 [Google Landing Page](https://oz-mt.github.io/google-landing-page/)| HTML, CSS |![google landing page](https://github.com/Oz-MT/google-landing-page/blob/master/google%20landing%20page%20clone%20.jpg)
 [Portfolio Page](https://portfolio-page-two-chi.vercel.app/)| HTML, CSS |![portfolio page](https://github.com/Oz-MT/portfolio-page/blob/master/portfolio-page.gif)
 [Netflix Survey Form](https://oz-mt.github.io/netflix_form/)| HTML, CSS |![netflix survey form](https://github.com/Oz-MT/netflix_form/blob/master/final-img/netflix-survey-small.jpg)
