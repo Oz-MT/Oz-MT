@@ -14,6 +14,7 @@
 ### My projects
   Project Name/Link       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
+[starbucks.com clone](https://oz-mt.github.io/starbucks-clone/)| HTML, CSS |![starbucks.com clone](https://github.com/Oz-MT/starbucks-clone/blob/master/starbucks.com%20clone.gif)
 [Chat App CSS illustration](https://oz-mt.github.io/chat-app-css-illustration/)| HTML, CSS |![chat app css illustration](https://github.com/Oz-MT/chat-app-css-illustration/blob/master/chat-app-css-illustration.jpg)
 [Huddle Landing Page](https://oz-mt.github.io/huddle-landing-page/)| HTML, CSS |![huddle landing page](https://github.com/Oz-MT/huddle-landing-page/blob/master/huddle-landing-page.gif)
 [Parallax Website](https://oz-mt.github.io/parallax-website/)| HTML, CSS |![parallax website](https://github.com/Oz-MT/parallax-website/blob/master/parallax-website.gif)
