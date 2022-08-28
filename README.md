@@ -17,6 +17,7 @@
 [starbucks.com clone](https://oz-mt.github.io/starbucks-clone/)| HTML, CSS |![starbucks.com clone](https://github.com/Oz-MT/starbucks-clone/blob/master/starbucks.com%20clone.gif)
 [Chat App CSS illustration](https://oz-mt.github.io/chat-app-css-illustration/)| HTML, CSS |![chat app css illustration](https://github.com/Oz-MT/chat-app-css-illustration/blob/master/chat-app-css-illustration.jpg)
 [Huddle Landing Page](https://oz-mt.github.io/huddle-landing-page/)| HTML, CSS |![huddle landing page](https://github.com/Oz-MT/huddle-landing-page/blob/master/huddle-landing-page.gif)
+[Team Member Page](https://oz-mt.github.io/team-member/)| HTML, CSS |![team member page](https://github.com/Oz-MT/team-member/blob/master/views/desktop%20view.jpg)
 [Parallax Website](https://oz-mt.github.io/parallax-website/)| HTML, CSS |![parallax website](https://github.com/Oz-MT/parallax-website/blob/master/parallax-website.gif)
 [Testimonials Grid Section](https://oz-mt.github.io/testimanials-grid-section/)| HTML, CSS |![testimonials grid section](https://github.com/Oz-MT/testimanials-grid-section/blob/master/desktop%20sm%20view.jpg)
 [Google Landing Page](https://oz-mt.github.io/google-landing-page/)| HTML, CSS |![google landing page](https://github.com/Oz-MT/google-landing-page/blob/master/google%20landing%20page%20clone%20.jpg)
